@@ -1,0 +1,53 @@
+# ================================
+#   VARIABLES DE ENTORNO
+# ================================
+.env
+.env.local
+.env.*.local
+
+# ================================
+#   DEPENDENCIAS DE NODE
+# ================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ================================
+#   DOCKER
+# ================================
+docker-compose.override.yml
+
+# ================================
+#   ARCHIVOS SENSIBLES
+# ================================
+*.key
+*.pem
+*.crt
+credentials/
+secrets/
+
+# ================================
+#   ARCHIVOS TEMPORALES / BASURA
+# ================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+.DS_Store
+Thumbs.db
+
+# ================================
+#   CONFIGURACIONES DE EDITORES
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================================
+#   N8N (DATOS INTERNOS)
+# ================================
+.n8n/
+n8n-data/
