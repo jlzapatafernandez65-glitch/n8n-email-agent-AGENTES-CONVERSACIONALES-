@@ -1,4 +1,4 @@
-# N8N Email Agent - Sistema de Automatización Inteligente
+# Email Agent N8N - Sistema de Automatización Inteligente
 
 Sistema avanzado de automatización de correos electrónicos con IA usando n8n, Evolution API y OpenAI. Procesa emails de forma inteligente, mantiene conversaciones contextuales con clientes, guía a usuarios hacia la agenda de citas mediante flujos conversacionales naturales, recopila y valida datos relevantes del prospecto, y registra automáticamente nuevos leads en el CRM.
 
